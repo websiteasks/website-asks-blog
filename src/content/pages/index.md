@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Al Shariar Apon
+tagline: Digital Marketing Practitioner
+featuredImage: /assets/al-shariar-apon.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+This is Al, a simple and friendly tech-guy having with 5+ Years of experience in WordPress and 4+ Years in Technical & Local SEO. As well as creative aspects including Basic Graphics Design. I'll make you happy, trust me. Why? Because I'll work for your success only!
