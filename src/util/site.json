@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
-    "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "title": "Website Asks",
+    "titleTemplate": "Website Asks",
+    "description": "© 2021 Copyright PackPixel LLC. Made with ❤ by Al Shariar Apon",
+    "siteUrl": "https://websiteasks.com",
+    "image": "/assets/websiteasks-favicon.png",
+    "iconimage": "/assets/websiteasks-favicon.png",
+    "twitterUsername": "@alshariarapon"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
